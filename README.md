@@ -21,3 +21,16 @@ This project is a **Streamlit-based web application** designed to help job seeke
    - Provides accurate analysis by understanding context, synonyms, and related phrases.
 
 ---
+
+## Technology Stack
+
+- **Frontend**: Streamlit (for building an intuitive user interface).
+- **Backend**: Gemini LLM (Large Language Model) for keyword extraction and semantic matching.
+- **Languages**: Python.
+- **Libraries**: 
+  - `streamlit` for UI.
+  - `pandas` for data handling.
+  - `PyPDF2` or `pdfplumber` for parsing PDF resumes.
+  - `nltk` or `spaCy` for text preprocessing.
+
+---
