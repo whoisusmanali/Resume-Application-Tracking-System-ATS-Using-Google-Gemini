@@ -75,8 +75,8 @@ This project is a **Streamlit-based web application** designed to help job seeke
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/username/resume-job-matching.git
-   cd resume-job-matching
+   git clone https://github.com/whoisusmanali/Resume-Application-Tracking-System-ATS-Using-Google-Gemini.git
+   cd Resume-Application-Tracking-System-ATS-Using-Google-Gemini
    ```
 
 2. Install dependencies:
