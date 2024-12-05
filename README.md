@@ -70,3 +70,64 @@ This project is a **Streamlit-based web application** designed to help job seeke
    - Results are displayed in a user-friendly format, such as tables or charts.
 
 ---
+
+## Installation
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/username/resume-job-matching.git
+   cd resume-job-matching
+   ```
+
+2. Install dependencies:
+   ```bash
+   pip install -r requirements.txt
+   ```
+
+3. Run the application:
+   ```bash
+   streamlit run app.py
+   ```
+
+---
+
+## Usage
+
+1. **Launch the application**:
+   - Run the `app.py` script and access the app in your web browser.
+
+2. **Input Data**:
+   - Paste the job description in the designated text area.
+   - Upload the resume file.
+
+3. **View Results**:
+   - Review the detailed breakdown of missing and existing keywords.
+   - Use the insights to improve resume alignment with the job description.
+
+---
+
+## Future Enhancements
+
+1. **Multi-format Resume Parsing**:
+   - Support for additional file types like `.docx`.
+
+2. **Advanced Semantic Analysis**:
+   - Include weightage for skill importance.
+
+3. **Visualization**:
+   - Add bar charts or word clouds for visual representation of the analysis.
+
+4. **Customization**:
+   - Allow users to specify the importance of certain keywords.
+
+
+## Acknowledgments
+
+- **Google Gemini Model**: For powering the semantic analysis.
+- **Streamlit**: For making the interface simple and user-friendly.
+- **Python Libraries**: For facilitating data processing and analysis.
+
+--- 
+
+### Contact
+For questions, feedback, or collaboration, please reach out at [whoisusmanali@gmail.com](whoisusmanali@gmail.com).
